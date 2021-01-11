@@ -7,7 +7,7 @@ image: ""
 ---
 
 
-**Course syllabus and policies:**  [Course handout](assets/misc/syllabus.pdf).
+**Course syllabus and policies:**  [Course handout](/assets/misc/syllabus.pdf).
 
 **Teaching staff:**  
 
