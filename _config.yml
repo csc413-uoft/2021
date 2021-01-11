@@ -3,7 +3,7 @@ description: CSC413/2516-2021 course website
 sitename: CSC413-uoft
 baseurl: ''
 sass:
-  sass_dir: /assets/_sass
+  sass_dir: assets/_sass
   style: :compressed
 collections:
   - contents

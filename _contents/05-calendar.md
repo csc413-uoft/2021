@@ -10,4 +10,4 @@ Suggested readings included help you understand the course material. They are no
 
 |       | Date    | Topic                  | Slides  | Suggested Readings 
 |-------|----|------------------------|---------|------------------------------------------
-| **Lecture&nbsp;1**| Jan 12    | Introduction & Linear Models | [Slides](/assets/slides/lec01.pdf)  | Roger Grosse's notes: [Linear Regression](/assets/readings/L01a.pdf), [Linear Classifiers](/assets/readings/L01b.pdf), [Training a Classifier](/assets/readings/L01c.pdf)
+| **Lecture&nbsp;1**| Jan 12    | Introduction & Linear Models | [Slides](assets/slides/lec01.pdf)  | Roger Grosse's notes: [Linear Regression](assets/readings/L01a.pdf), [Linear Classifiers](assets/readings/L01b.pdf), [Training a Classifier](assets/readings/L01c.pdf)
