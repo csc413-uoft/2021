@@ -19,8 +19,8 @@ image: ""
 
 Contact emails:
 
-* Instructor: [csc413-2021-01@cs.toronto.edu](mailto:csc413-2020-01@cs.toronto.edu)
-* TAs and instructor: [csc413-2021-01-tas@cs.toronto.edu](mailto:csc413-2020-01-tas@cs.toronto.edu)
+* Instructor: TBD
+* TAs and instructor: TBD
 
 Please do not send the instructor or the TAs email about the class directly to their personal accounts.
 
