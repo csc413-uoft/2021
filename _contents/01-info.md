@@ -35,6 +35,8 @@ If your question is about the course material and doesn't give away any hints fo
 | Lecture | Tuesday 3-5 pm  | YouTube       | 
 | Tutotiral | Thursday 3-4 pm | Zoom       | 
 
+**Online lectures and tutorials:** The access to online lectures and tutorials will be communicated via course mailing list. Course videos and materials belong to your instructor, the University, and/or other sources depending on the specific facts of each situation, and are protected by copyright. Do not download, copy, or share any course or student materials or videos without the explicit permission of the instructor. For questions about recording and use of videos in which you appear please contact your instructor.
+
 <br/> 
 
 
