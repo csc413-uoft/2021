@@ -8,9 +8,19 @@ image: ""
 
 |           | Handout                | Due
 |-----------|------------------------|---------
-| **Homework 1**   |          |  
+| **Homework 1**   |  [pdf](/assets/assignments/HW01.pdf)        | Jan. 17(out), due Jan. 28 
+| **Programming Assignment 1**   | TBD        | Jan. 21(out), due Feb. 04 
+| **Homework 2**   |  TBD        | Jan. 28(out), due Feb. 11
+| **Programming Assignment 2**   | TBD       | Feb. 04(out), due Feb. 25 
+| **Homework 3**   |  TBD       | Feb. 18(out), due Mar. 11 
+| **Programming Assignment 3**   | TBD  | Mar. 04(out), due Mar. 18
+| **Programming Assignment 4**   |  TBD  | Mar. 18(out), due Apr. 01
+| **Homework 4**   |  TBD    | Mar. 25(out), due Apr. 08
 
 <br/> 
 
 <br/> 
 
+**Midterm Quiz:**  *Feb. 09* 
+
+The midterm quiz will cover the lecture materials up to lecture 4. The exact details will be announced soon.
