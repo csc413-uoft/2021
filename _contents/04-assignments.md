@@ -16,6 +16,7 @@ image: ""
 | **Programming Assignment 3**   | TBD  | Mar. 04(out), due Mar. 18
 | **Programming Assignment 4**   |  TBD  | Mar. 18(out), due Apr. 01
 | **Homework 4**   |  TBD    | Mar. 25(out), due Apr. 08
+| **Course Project**   |  Guideline soon    | due Apr. 12
 
 <br/> 
 
