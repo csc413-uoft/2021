@@ -11,9 +11,9 @@ Suggested readings included help you understand the course material. They are no
 |       | Date&nbsp;&nbsp;&nbsp;&nbsp;    | Topic                  | Slides  | Suggested Readings 
 |-------|----|------------------------|---------|------------------------------------------
 | **Lecture&nbsp;1**| Jan 12 | Introduction & Linear Models | [Slides](assets/slides/lec01.pdf)  | Roger Grosse's notes: [Linear Regression](assets/readings/L01a.pdf), [Linear Classifiers](assets/readings/L01b.pdf), [Training a Classifier](assets/readings/L01c.pdf)
-| *Tutorial&nbsp;1* | Jan 14  | Multivariable Calculus Review  | [ipynb](assets/tutorials/tut01_calc_intro.ipynb)  | Python notebook: [ipynb](assets/tutorials/tut01_calc_intro.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/).
+| *Tutorial&nbsp;1* | Jan 14  | Multivariable Calculus Review  | [ipynb](assets/tutorials/tut01_calc_intro.ipynb)  | Python notebook: [ipynb](assets/tutorials/tut01_calc_intro.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut01_calc_intro.ipynb).
 | **Lecture&nbsp;2**| Jan 19  | Multilayer Perceptrons & Backpropagation |  [Slides](assets/slides/lec02.pdf)  | Roger Grosse's notes: [Multilayer Perceptrons](assets/readings/L02a.pdf), [Backpropagation](assets/readings/L02b.pdf)
-| *Tutorial&nbsp;2* | Jan 21  | Autograd and PyTorch  |   | 
+| *Tutorial&nbsp;2* | Jan 21  | Autograd and PyTorch | [ipynb](assets/tutorials/tut02_pytorch.ipynb)  | Python notebook: [ipynb](assets/tutorials/tut02_pytorch.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut02_pytorch.ipynb).
 | **Lecture&nbsp;3**| Jan 26  | Distributed Representations & Optimization |   | 
 | *Tutorial&nbsp;3* | Jan 28  | How to Train Neural Networks  |   | 
 | **Lecture&nbsp;4** | Feb 02  | Convolutional Neural Networks and Image Classification  |  |  
