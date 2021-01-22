@@ -13,7 +13,7 @@ image: ""
 
 * Instructor and office hours: 
   * [Jimmy Ba](http://jimmylba.github.com), Tues 5-6
-  * [Bo Wang](https://wanglab.ml/),  Wed 5-6
+  * [Bo Wang](https://wanglab.ml/),  Fri 10-11
 
 * Head TA: Harris Chan
 
