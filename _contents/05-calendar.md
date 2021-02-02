@@ -16,7 +16,7 @@ Suggested readings included help you understand the course material. They are no
 | *Tutorial&nbsp;2* | Jan 21  | Autograd and PyTorch | [ipynb](assets/tutorials/tut02_pytorch.ipynb)  | Python notebook: [ipynb](assets/tutorials/tut02_pytorch.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut02_pytorch.ipynb).
 | **Lecture&nbsp;3**| Jan 26  | Distributed Representations & Optimization | [Slides](assets/slides/lec03.pdf)  | Roger Grosse's notes: [Automatic Differentiation](assets/readings/L03a.pdf), [Distributed Representations](assets/readings/L03b.pdf), [Optimization](assets/readings/L03c.pdf)
 | *Tutorial&nbsp;3* | Jan 28  | How to Train Neural Networks  | [Slides](assets/tutorials/tut03_train.pdf), [code demo](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut03_train.ipynb)  |
-| **Lecture&nbsp;4** | Feb 02  | Convolutional Neural Networks and Image Classification  |  |  Roger Grosse's notes: [ConvNets](assets/readings/L04a.pdf), [Image Classification](assets/readings/L04b.pdf). Related papers: [Yann LeCun’s 1998 LeNet](assets/readings/lecun-98.pdf), [AlexNet](assets/readings/AlexNet.pdf).
+| **Lecture&nbsp;4** | Feb 02  | Convolutional Neural Networks and Image Classification  | [Slides](assets/slides/lec04.pdf)  |  Roger Grosse's notes: [ConvNets](assets/readings/L04a.pdf), [Image Classification](assets/readings/L04b.pdf). Related papers: [Yann LeCun’s 1998 LeNet](assets/readings/lecun-98.pdf), [AlexNet](assets/readings/AlexNet.pdf).
 | *Tutorial&nbsp;4* | Feb 04  | Convolutional Neural Networks  |   | 
 | **Lecture&nbsp;5** | Feb 09  | Interpretability  |  |  
 | **Midterm Quiz** | Feb 09  |   |  | 
