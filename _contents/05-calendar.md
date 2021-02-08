@@ -18,7 +18,7 @@ Suggested readings included help you understand the course material. They are no
 | *Tutorial&nbsp;3* | Jan 28  | How to Train Neural Networks  | [Slides](assets/tutorials/tut03_train.pdf), [code demo](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut03_train.ipynb)  |
 | **Lecture&nbsp;4** | Feb 02  | Convolutional Neural Networks and Image Classification  | [Slides](assets/slides/lec04.pdf)  |  Roger Grosse's notes: [ConvNets](assets/readings/L04a.pdf), [Image Classification](assets/readings/L04b.pdf). Related papers: [Yann LeCun’s 1998 LeNet](assets/readings/lecun-98.pdf), [AlexNet](assets/readings/AlexNet.pdf).
 | *Tutorial&nbsp;4* | Feb 04  | Convolutional Neural Networks  | [ipynb](assets/tutorials/tut04_cnn.ipynb) | iPython notebook: [ipynb](assets/tutorials/tut04_cnn.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut04_cnn.ipynb) 
-| **Lecture&nbsp;5** | Feb 09  | Interpretability  |  |  
+| **Lecture&nbsp;5** | Feb 09  | Interpretability  | [Slides](assets/slides/lec05.pdf)  |  Related papers: [Sanity Check for Saliency Maps](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf), [SmoothGrad](https://arxiv.org/pdf/1706.03825.pdf), [Towards a rigorous science of interpretable machine learning](https://arxiv.org/pdf/1702.08608.pdf).
 | **Midterm Quiz** | Feb 09  |   |  | 
 | *Tutorial&nbsp;5* | Feb 11  | How to Write a Good Course Project Report  |  | 
 | **Reading Week** | Feb 16  |   |  | 
