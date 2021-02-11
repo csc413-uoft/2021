@@ -20,7 +20,7 @@ Suggested readings included help you understand the course material. They are no
 | *Tutorial&nbsp;4* | Feb 04  | Convolutional Neural Networks  | [ipynb](assets/tutorials/tut04_cnn.ipynb) | iPython notebook: [ipynb](assets/tutorials/tut04_cnn.ipynb), you may view the notebook via [Colab](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut04_cnn.ipynb) 
 | **Lecture&nbsp;5** | Feb 09  | Interpretability  | [Slides](assets/slides/lec05.pdf)  |  Related papers: [Sanity Check for Saliency Maps](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf), [SmoothGrad](https://arxiv.org/pdf/1706.03825.pdf), [Towards a rigorous science of interpretable machine learning](https://arxiv.org/pdf/1702.08608.pdf).
 | **Midterm Quiz** | Feb 09  |   |  | 
-| *Tutorial&nbsp;5* | Feb 11  | How to Write a Good Course Project Report  |  | 
+| *Tutorial&nbsp;5* | Feb 11  | How to Write a Good Course Project Report  | [Slides](assets/tutorials/tut05_writing.pdf)  | 
 | **Reading Week** | Feb 16  |   |  | 
 | **Lecture&nbsp;6** | Feb 23  | Optimization & Generalization  |  |  
 | *Tutorial&nbsp;6* | Feb 25  | Best Practices of ConvNet Applications  |  | 
