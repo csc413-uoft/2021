@@ -6,6 +6,7 @@ subheading: Announcements&#58;
 image: ""
 ---
 
+ - **Feb 21**: Programming Assignment 2 [handout](assets/assignments/PA02.pdf) and [starter code](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a2-cnn.ipynb) v1.1 is updated clarifications and a new due date of Feb 28th.
  - **Feb 20**: Homework 3 [handout](assets/assignments/HW03.pdf) is now online and is due Mar 13th.
  - **Feb 1**: Project Guideline [handout](assets/assignments/project_handout.pdf) is now online.
  - **Jan 28**: Homework 2 [handout](assets/assignments/HW02.pdf) is now online and is due Feb 11th.
