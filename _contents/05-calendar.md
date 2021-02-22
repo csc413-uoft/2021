@@ -22,7 +22,7 @@ Suggested readings included help you understand the course material. They are no
 | **Midterm Quiz** | Feb 09  |   |  | 
 | *Tutorial&nbsp;5* | Feb 11  | How to Write a Good Course Project Report  | [Slides](assets/tutorials/tut05_writing.pdf)  | 
 | **Reading Week** | Feb 16  |   |  | 
-| **Lecture&nbsp;6** | Feb 23  | Optimization & Generalization  |  |  
+| **Lecture&nbsp;6** | Feb 23  | Optimization & Generalization  |  |  Roger Grosse's notes: [Generalization](assets/readings/L06a.pdf), [Exploding Vanishing Gradients](assets/readings/L06b.pdf) Related papers: [Dropout](assets/readings/srivastava14a.pdf), [ResNet](https://arxiv.org/abs/1512.03385) 
 | *Tutorial&nbsp;6* | Feb 25  | Best Practices of ConvNet Applications  |  | 
 | **Lecture&nbsp;7** | Mar 02  | Recurrent Neural Networks and Attention |   |  
 | *Tutorial&nbsp;7* | Mar 04  | Recurrent Neural Networks  |  | 
