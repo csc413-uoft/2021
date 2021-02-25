@@ -23,7 +23,7 @@ Suggested readings included help you understand the course material. They are no
 | *Tutorial&nbsp;5* | Feb 11  | How to Write a Good Course Project Report  | [Slides](assets/tutorials/tut05_writing.pdf)  | 
 | **Reading Week** | Feb 16  |   |  | 
 | **Lecture&nbsp;6** | Feb 23  | Optimization & Generalization  |  |  
-| *Tutorial&nbsp;6* | Feb 25  | Best Practices of ConvNet Applications  |  | 
+| *Tutorial&nbsp;6* | Feb 25  | Best Practices of ConvNet Applications  | [Slides](assets/tutorials/tut06_cnn_apps.pdf) | 
 | **Lecture&nbsp;7** | Mar 02  | Recurrent Neural Networks and Attention |   |  
 | *Tutorial&nbsp;7* | Mar 04  | Recurrent Neural Networks  |  | 
 | **Lecture&nbsp;8** | Mar 09  | Transformers and Autoregressive Models|   |  
