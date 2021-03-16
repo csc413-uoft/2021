@@ -28,7 +28,7 @@ Suggested readings included help you understand the course material. They are no
 | *Tutorial&nbsp;7* | Mar 04  | Recurrent Neural Networks  | [Slides](assets/tutorials/tut07_rnn_slides.pdf), [ipynb](assets/tutorials/tut07_rnn.ipynb)| You may view the notebook on [Colab](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/tutorials/tut07_rnn.ipynb) | 
 | **Lecture&nbsp;8** | Mar 09  | Transformers and Autoregressive Models| [Slides](assets/slides/lec08.pdf)   |  Related papers: [Transformers](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), [BERT pre-training](https://arxiv.org/pdf/1810.04805.pdf), [PixelRNNs](https://arxiv.org/abs/1601.06759), [WaveNet](https://arxiv.org/abs/1609.03499), [PixelCNNs](https://arxiv.org/abs/1606.05328).
 | *Tutorial&nbsp;8* | Mar 11  | NLP and Transformers  | [Slides](assets/tutorials/tut08_nlp.pdf) | 
-| **Lecture&nbsp;9** | Mar 16  | Reversible Models & Generative Adversarial Networks  |  |  
+| **Lecture&nbsp;9** | Mar 16  | Reversible Models & Generative Adversarial Networks  | [Slides](assets/slides/lec09.pdf) |  Related papers: [Generative adversarial networks](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [CycleGANs](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf), [RealNVP](https://arxiv.org/abs/1605.08803).
 | *Tutorial&nbsp;9* | Mar 18  | Information Theory  |   | 
 | **Lecture&nbsp;10** | Mar 23  | Generative Models & Reinforcement Learning |  |  
 | *Tutorial&nbsp;10* | Mar 25  | Generative Adversarial Networks  |  | 
