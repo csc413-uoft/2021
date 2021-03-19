@@ -6,6 +6,7 @@ subheading: Announcements&#58;
 image: ""
 ---
 
+ - **Mar 19**: Programming Assignment 4 [handout](assets/assignments/PA04.pdf), [starter code 1](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a4-dcgan.ipynb), [starter code 2](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a4-stylegan.ipynb), and [starter code 3](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a4-dqn.ipynb) are online and are due April 1st.
  - **Mar 06**: Programming Assignment 3 [handout](assets/assignments/PA03.pdf), [starter code 1](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/nmt.ipynb) and [starter code 2](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/bert_and_gpt.ipynb) are due Mar 20th.
  - **Feb 21**: Programming Assignment 2 [handout](assets/assignments/PA02.pdf) and [starter code](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a2-cnn.ipynb) v1.1 is updated with clarifications and a new due date of Feb 28th.
  - **Feb 20**: Homework 3 [handout](assets/assignments/HW03.pdf) is now online and is due Mar 13th.
