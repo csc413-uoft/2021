@@ -5,6 +5,7 @@ heading: Announcements
 subheading: Announcements&#58;
 image: ""
 ---
+ - **Mar 30**: Course Project due date is now ~~Apr. 12~~ Apr. 18.
  - **Mar 26**: Homework 4 [handout](assets/assignments/HW04.pdf) is now online and is due April 8th.
  - **Mar 19**: Programming Assignment 4 [handout](assets/assignments/PA04.pdf), [starter code 1](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a4-dcgan.ipynb), [starter code 2](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a4-stylegan.ipynb), and [starter code 3](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/a4-dqn.ipynb) are online and are due April 1st.
  - **Mar 06**: Programming Assignment 3 [handout](assets/assignments/PA03.pdf), [starter code 1](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/nmt.ipynb) and [starter code 2](https://colab.research.google.com/github/csc413-uoft/2021/blob/master/assets/assignments/bert_and_gpt.ipynb) are due Mar 20th.
